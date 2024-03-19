@@ -1,0 +1,30 @@
+{
+  "name": "amazing-tailwind-animations",
+  "version": "0.0.2",
+  "description": "The only package you'll need for your next TailwindCSS project. It includes a set of amazing animations that you can use in your HTML and CSS projects.",
+  "main": "plugin.mjs",
+  "type": "module",
+  "repository": "https://github.com/juliant908/amazing-tailwind-animations",
+  "issues": "https://github.com/juliant908/amazing-tailwind-animations/issues",
+  "scripts": {
+    "test": "vitest",
+    "test-dev": "vitest --ui"
+  },
+  "keywords": ["tailwind", "animations", "css", "html"],
+  "author": "Julián Tibana",
+  "license": "ISC",
+  "devDependencies": {
+    "@csstools/postcss-minify": "1.1.1",
+    "postcss": "8.4.36",
+    "standard": "17.1.0",
+    "tailwindcss": "3.4.1",
+    "vitest": "1.4.0",
+    "@vitest/ui": "1.4.0"
+  },
+  "peerDependencies": {
+    "tailwindcss": "^3.0.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
