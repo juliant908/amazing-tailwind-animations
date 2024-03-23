@@ -11,7 +11,7 @@ npm install amazing-tailwind-animations
 
 Add the plugin into your `tailwind.config.mjs`.
 
-Note: if your using CommonJS, make sure to import the plugin with the `require('')` method.
+Note: if you are using CommonJS, make sure to import the plugin with the `require('')` method.
 
 ```sh
 import amazingAnimations from 'amazingAnimations'
