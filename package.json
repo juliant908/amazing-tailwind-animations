@@ -1,8 +1,8 @@
 {
   "name": "amazing-tailwind-animations",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The only package you'll need for your next TailwindCSS project. It includes a set of amazing animations that you can use in your HTML and CSS projects.",
-  "main": "plugin.mjs",
+  "main": "./plugin.js",
   "type": "module",
   "repository": "https://github.com/juliant908/amazing-tailwind-animations",
   "issues": "https://github.com/juliant908/amazing-tailwind-animations/issues",
