@@ -1,6 +1,6 @@
 {
   "name": "amazing-tailwind-animations",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "The only package you'll need for your next TailwindCSS project. It includes a set of amazing animations that you can use in your HTML and CSS projects.",
   "main": "./plugin.js",
   "type": "module",
